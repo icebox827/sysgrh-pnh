@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>SYSGRH</title>
+        <title>PNH RH</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -39,6 +39,16 @@
                 position: absolute;
                 right: 10px;
                 top: 18px;
+            }
+
+            .top-left {
+                position: absolute;;
+                left: 10px;
+                top: 18px;
+            }
+
+            .icon {
+                size: 200px;
             }
 
             .content {
